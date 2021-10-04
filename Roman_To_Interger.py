@@ -12,8 +12,5 @@ for i in range(len(n)):
             res-=s1
     else:
         res+=s1
-
-  
-
 print(res)
     
